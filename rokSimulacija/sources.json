@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "type": "QVariantMap",
+      "volume": 1240,
+      "name": "Јuzni cevovod"
+    },
+    {
+      "type": "QVariantMap",
+      "volume": 1426,
+      "name": "Mreza slavina"
+    },
+    {
+      "type": "QVariantMap",
+      "volume": 626,
+      "name": "Pokretna cisterna"
+    },
+    {
+      "type": "QVariantMap",
+      "volume": 1434,
+      "name": "Severni cevovod"
+    },
+    {
+      "type": "QVariantMap",
+      "volume": 726,
+      "name": "Podzemni izvori"
+    }
+  ]
+}
+
